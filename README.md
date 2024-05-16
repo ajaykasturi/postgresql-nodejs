@@ -8,6 +8,7 @@ Before running this application, you need to have the following installed on you
 
 - Node.js
 - PostgreSQL
+- TypeScript
 
 ## Installation
 
